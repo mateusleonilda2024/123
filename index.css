@@ -32,7 +32,7 @@ h1,h2,h3,h4,h5,h6{
 
 h2{
 text-align: center;
-color: #00ff62a6;
+color: #d9ff00;
 
 
 }
@@ -44,7 +44,7 @@ color: #00ff62a6;
     margin: 0 auto;
 }
 .wrapper #title-pag{
-    background: linear-gradient(90deg, #ff8800 0%, #fbff00 100%);
+    background: linear-gradient(90deg, #fbff00 0%, #ff0000 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     text-shadow: #000000;
